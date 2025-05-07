@@ -201,7 +201,7 @@
 
   - Telegram: BestBotsInTown - https://telegram.me/BestBotsInTown
   - Telegram channel: BestBotsInTown News - https://telegram.me/bestbotsintown_news_1
-  - Email: (***We prefer a contact by Telegram than by email***, but the email address is shown at some screenshots of our Snapchat API SaaS bot solution here: https://github.com/BestBotsInTown-01/Snapchat-Bot)
+  - Email: (***We prefer a contact by Telegram than by email***, but the email address is shown at some screenshots of our Snapchat API SaaS bot solution here: https://github.com/BestBotsInTown-EU/Snapchat-Bot)
   - GitHub: https://linktree.com/BestBotsInTown (***In case this GitHub page will disappear and require a new link, please bookmark the Linktree page https://linktree.com/BestBotsInTown***)
   - ***Existing and new customers have additional ways to receive direct responses.***
 
