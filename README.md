@@ -13,7 +13,7 @@
 &nbsp;
 
 > [!NOTE]
-> Last update of this page: May 7th, 2025
+> Last update of this page: May 9th, 2025
 
 &nbsp;
 
@@ -22,6 +22,10 @@
 &nbsp;
 
 ***Current news:***
+
+  - May 9th, 2025, 06:52 (UTC+2)/06:52 AM (UTC+2)
+
+    - New! Support of ***Snapchat 13.40.0.46 for iOS*** (current release, support added only 1 1/2 hours after the release date)
 
   - May 3rd, 2025, 11:15 (UTC+1)/11:15 AM (UTC+2)
 
@@ -86,7 +90,7 @@
 
 - Please remember: Most people use poor Snapchat bots based on Android, a very low number uses Snapchat bots based on iOS. Stay safe and use iOS!
 
-- Compatible with Snapchat 12.x and 13.x for ***iOS*** (up to version 13.39.0.44 for iOS).
+- Compatible with Snapchat 12.x and 13.x for ***iOS*** (up to version 13.40.0.46 for iOS).
 
 - Tokens and headers for Snapchat 12.x and 13.x optionally available on request.
 
