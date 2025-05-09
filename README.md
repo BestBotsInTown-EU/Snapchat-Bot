@@ -5,7 +5,7 @@
 ## Snapchat API Bot - SaaS solution - Based on the hidden Snapchat iOS API - Working as of May 2025
 &nbsp;
 
-![Screenshot - Snapchat API Bot - by BestBotsInTown - Overview](https://github.com/user-attachments/assets/51a89a67-0a5f-4c79-a8cd-bb3cc33a621f)
+![Screenshot - Snapchat API Bot - by BestBotsInTown - Overview](https://github.com/user-attachments/assets/4c27074a-fffe-4187-9364-f3f9333b412b)
 (Click to zoom this screenshot and open it in a new browser tab)
 
 <!-- Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (tasks) -->
@@ -217,7 +217,8 @@
 
 &nbsp;
 
-![Snapchat API Bot - Limited Offer - BestBotsInTown - 20250504](https://github.com/user-attachments/assets/274da678-347e-48d4-9cd2-dff2457ad7a3)
+![Screenshot - Snapchat API Bot - by BestBotsInTown - Overview](https://github.com/user-attachments/assets/4c27074a-fffe-4187-9364-f3f9333b412b)
+(Click to zoom this screenshot and open it in a new browser tab)
 
 &nbsp;
 
@@ -235,7 +236,7 @@ More about us (history, skills, other projects): https://github.com/BestBotsInTo
 
 - Typical Snapchat bot configuration (campaigns, workflows, jobs, ...):
 
-![Screenshot - Snapchat API Bot - by BestBotsInTown - Overview](https://github.com/user-attachments/assets/51a89a67-0a5f-4c79-a8cd-bb3cc33a621f)
+![Screenshot - Snapchat API Bot - by BestBotsInTown - Overview](https://github.com/user-attachments/assets/4c27074a-fffe-4187-9364-f3f9333b412b)
 (Click to zoom this screenshot and open it in a new browser tab)
 
 &nbsp;
